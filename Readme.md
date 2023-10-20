@@ -5,10 +5,15 @@ About the Project
 Contributors
 Our Organization
 Milestones
+
 Milestone 1
+
 Milestone 2
+
 Milestone 3
+
 Milestone 4
+
 Presentation
 
 ## **About the Project**
