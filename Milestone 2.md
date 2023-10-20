@@ -24,35 +24,27 @@ This section presents the Gantt Chart and Network Diagram based on the WBS.
 
 ### Gantt Chart
 
-[Insert Gantt Chart Image/Link]
+[Gantt Chart Image](https://github.com/cis-famu/GameTrack/blob/main/Project%20Management%20Files/GamTrack%20Application.mpp)
 
 ### Network Diagram
 
-[Insert Network Diagram Image/Link]
+[Network Diagram Image](https://github.com/cis-famu/GameTrack/blob/main/Project%20Management%20Files/GamTrack%20Application.mpp)
 
 ## Detailed Requirements Document
-
+[Tracker Application System - Detailed Requirements Document.docx](https://github.com/cis-famu/GameTrack/files/13055680/Tracker.Application.System.-.Detailed.Requirements.Document.docx)
 
 ## Fully Dressed-Use Cases
-
-Create use cases similar to those covered in the reading and assignment.
-
+[Use Cases For GamTrack.docx](https://github.com/cis-famu/GameTrack/files/13055684/Use.Cases.For.GamTrack.docx)
 
 ## Use Case Diagram
 
-Create a visual representation of the use cases in a diagram.
-
-[Insert Use Case Diagram Image/Link]
-
 ## Research on Other Systems
 
-In this section, we research similar systems and describe their design and capabilities.
-
+[Research On Applications That Are Similar to GamTrack.docx](https://github.com/cis-famu/GameTrack/files/13055685/Research.On.Applications.That.Are.Similar.to.GamTrack.docx)
 
 ## API Descriptions
 
-Describe all APIs you expect the system to interact with (i.e., Google Maps).
-
+[API Descriptions.docx](https://github.com/cis-famu/GameTrack/files/13055690/API.Descriptions.docx)
 
 ## Overall Document
 
