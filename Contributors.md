@@ -4,6 +4,7 @@
 
 ## **Terrelle Thomas**
 Hello, my name is Terrelle Thomas. I am a third-year student attending Florida Agricultural and Mechanical University. I was born on a small Sint Maarten island on September 12, 2000. My chosen degree major is Computer Information Systems, and I've also opted to minor in Cybersecurity. Currently classified as a Senior, though some in the same department (CIS) have referred to me as a junior-senior. I decided to study Computer Information Systems with a minor in Cybersecurity because I aspire to become a forensic scientist/computer specialist, aiming to work for the US Army Cybersecurity Division. My long-term goals include establishing my own cybersecurity company to assist government agencies and building an information technology business alongside my big brother, covering various aspects of the IT industry. Interestingly, my initial dream of becoming a pilot shifted as I developed an interest in criminal television, such as NCIS, Criminals, and other crime shows.
+
 ![Headshot](https://github.com/cis-famu/GameTrack/assets/110430142/e0e04713-c467-43e9-93e3-ca6ca3b7b9b8)
 
 ## **Xavier Widely**
