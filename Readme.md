@@ -1,9 +1,12 @@
-## **GameTracker App**
+## **GamTrack App**
 
 ## **Table of Contents**
 About the Project
+
 Contributors
+
 Our Organization
+
 Milestones
 
 Milestone 1
