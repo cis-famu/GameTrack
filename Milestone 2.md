@@ -11,10 +11,10 @@
 7. [API Descriptions](#api-descriptions)
 
 ## Work Breakdown Structure (WBS)
-
 In this section, we outline the Work Breakdown Structure (WBS) for our project. The WBS breaks down the project into smaller, manageable tasks and activities.
 
 ### WBS Structure
+[GamTrack WBS.drawio.pdf](https://github.com/cis-famu/GameTrack/files/13061497/GamTrack.WBS.drawio.pdf)
 
 ## Gantt Chart & Network Diagram
 
