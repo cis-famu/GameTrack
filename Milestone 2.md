@@ -16,8 +16,6 @@ In this section, we outline the Work Breakdown Structure (WBS) for our project. 
 
 ### WBS Structure
 
-
-
 ## Gantt Chart & Network Diagram
 
 This section presents the Gantt Chart and Network Diagram based on the WBS.
@@ -29,6 +27,7 @@ This section presents the Gantt Chart and Network Diagram based on the WBS.
 ### Network Diagram
 
 [Network Diagram Image](https://github.com/cis-famu/GameTrack/blob/main/Project%20Management%20Files/GamTrack%20Application.mpp)
+
 
 ## Detailed Requirements Document
 [Tracker Application System - Detailed Requirements Document.docx](https://github.com/cis-famu/GameTrack/files/13055680/Tracker.Application.System.-.Detailed.Requirements.Document.docx)
