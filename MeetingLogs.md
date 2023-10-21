@@ -4,8 +4,11 @@
 ## Meeting 1
 
 **Date:** September 24th, 2024
+
 **Time:** 6:00 PM - 8:00 PM
+
 **Meeting ID:** Terrelle Thomas’s Zoom
+
 
 ### Attendees:
 - Terrelle Thomas
@@ -44,7 +47,9 @@
   ## Meeting 2
 
 **Date:** October 10, 2023
+
 **Time:** 4:40 PM - 5:20 PM
+
 **Meeting ID:** GamTrack Groupme
 
 ### Attendees:
