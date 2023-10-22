@@ -7,7 +7,7 @@
 
 **Time:** 6:00 PM - 8:00 PM
 
-**Meeting ID:** Terrelle Thomas’s Zoom
+**Meeting ID:** 387 634 4422
 
 
 ### Attendees:
@@ -50,7 +50,7 @@
 
 **Time:** 4:40 PM - 5:20 PM
 
-**Meeting ID:** GamTrack Groupme
+**Meeting ID:** 387 634 4422
 
 ### Attendees:
 - Terrelle Thomas
@@ -94,6 +94,35 @@
 4. **Team Meeting Document**
   
 
+## Meeting 3
+
+**Date:** October 22, 2034
+**Time:** 6:00 PM - 8:00 PM
+**Meeting ID:** 387 634 4422
+
+### Attendees:
+- Terrelle Thomas
+- Justin Lowery
+- Xavier Wildy
+- Antonio Alston
+
+### Agenda:
+
+1. **Discussion Topics**
+   a. **Milestone 2 Update**
+      - Brief discussion about Milestone 2.
+      - All tasks are done, but the use cases need to be checked before drawing the Use Case diagram.
+
+   b. **Upcoming Milestone (Milestone 3)**
+      - Discussion and planning for Milestone 3.
+      - Assignment of tasks for each team member related to Milestone 3.
+
+   c. **Task Assignments for Milestone 3**
+      - Justin Lowery will do the Data Flow Diagram.
+      - Terrelle Thomas will do the wireframes, Request for Quote, Style Guide, Marketing Material's.
+
+2. **Team Meeting Document**
+   - [Insert link to the team meeting document or provide space for notes]
   
 
 
