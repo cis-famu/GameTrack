@@ -34,7 +34,6 @@
    d. **Budget**
       - Justin Lowery, Antonio Alston: 29/09/23
 
-   e. **GitHub Guidelines**
       - Terrelle Thomas, Xavier Wildy: 29/09/23
 
 
