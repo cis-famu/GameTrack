@@ -31,10 +31,11 @@
    c. **Project Charter, SWOT, Time Estimate**
       - Terrelle Thomas: 29/09/23
 
-   d. **Budget**
+   d. **Budget, Score, & Time Estimates**
       - Justin Lowery, Antonio Alston: 29/09/23
 
-      - Terrelle Thomas, Xavier Wildy: 29/09/23
+   e. **Team Contacts**
+      - All Attendees 
 
 
 2. **Upcoming Milestones**
