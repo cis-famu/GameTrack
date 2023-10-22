@@ -42,7 +42,8 @@
    - Discussion and planning for upcoming project milestones and deadlines for Milestone 2.
 
 3. **Team Meeting Document**
-   
+   [Project Meeting September 24, 2023.docx](https://github.com/cis-famu/GameTrack/files/13062537/Project.Meeting.September.24.2023.docx)
+
 
   ## Meeting 2
 
@@ -92,7 +93,8 @@
    - Discussion and planning for Milestone Three.
 
 4. **Team Meeting Document**
-  
+  [Project Meeting Guidelines October 10.docx](https://github.com/cis-famu/GameTrack/files/13062538/Project.Meeting.Guidelines.October.10.docx)
+
 
 ## Meeting 3
 
@@ -124,7 +126,8 @@
       - Other Members will focus on the correction needed for Milestone 2
 
 2. **Team Meeting Document**
-   - [Insert link to the team meeting document or provide space for notes]
+   [Project Meeting Guidelines October 22.docx](https://github.com/cis-famu/GameTrack/files/13062539/Project.Meeting.Guidelines.October.22.docx)
+
   
 
 
