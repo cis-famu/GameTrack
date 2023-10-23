@@ -50,8 +50,4 @@ In this milestone, we formalize our project idea by creating our project charter
 ## **Presentation**
 Here is a copy of our final project presentation. This includes our project poster and pre-recorded video. 
 
-Presentation
-
-GameTracker is an open-source project that aims to bring gamers together and enhance the gaming experience. Happy gaming!
-
-
+[Presentation]()
