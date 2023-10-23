@@ -36,7 +36,12 @@ Present wireframes for key pages or interfaces of the system in this section.
    
 
 3. **Game Tracking Interface**
-  
+
+
+
+4. **WireFrame Document**
+
+[GamTrack.pdf](https://github.com/cis-famu/GameTrack/files/13077108/GamTrack.pdf)
 
 ## Style Guide
 
