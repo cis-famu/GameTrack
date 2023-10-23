@@ -70,6 +70,8 @@ This section includes materials created for marketing purposes.
 
 
 2. **Social Media Graphics**
+
+   
   ![2](https://github.com/cis-famu/GameTrack/assets/110430142/a5f66dc0-f80e-4bd3-bc40-d78f52b39730)
 
 ![1](https://github.com/cis-famu/GameTrack/assets/110430142/29b6a4bb-3fd9-4dbd-a8d9-1573bef3273d)
