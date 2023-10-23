@@ -129,9 +129,8 @@
 
 2. **Team Meeting Document**
 
-   [Project Meeting Guidelines October 22.docx](https://github.com/cis-famu/GameTrack/files/13062539/Project.Meeting.Guidelines.October.22.docx)
+  [Project Meeting Guidelines October 22.docx](https://github.com/cis-famu/GameTrack/files/13065753/Project.Meeting.Guidelines.October.22.docx)
 
-  
 
 
 
