@@ -63,13 +63,15 @@ This section includes materials created for marketing purposes.
 
 ### Marketing Materials Examples
 
-1. **Project Poster**
-   - [Insert Poster Image/Link]
 
-2. **Promotional Video**
-   - [Insert Video Link]
+1. **Promotional Video**
 
-3. **Social Media Graphics**
-   - [Insert Graphics/Images]
+[Promotional Video](https://github.com/cis-famu/GameTrack/assets/110430142/feca63d0-d88c-48f0-9ec6-9eeaa80901e9)
+
+
+2. **Social Media Graphics**
+  ![2](https://github.com/cis-famu/GameTrack/assets/110430142/a5f66dc0-f80e-4bd3-bc40-d78f52b39730)
+
+![1](https://github.com/cis-famu/GameTrack/assets/110430142/29b6a4bb-3fd9-4dbd-a8d9-1573bef3273d)
 
 
