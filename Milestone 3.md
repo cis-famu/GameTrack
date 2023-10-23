@@ -71,7 +71,7 @@ This section includes materials created for marketing purposes.
 
 1. **Promotional Video**
 
-[Promotional Video](https://github.com/cis-famu/GameTrack/assets/110430142/feca63d0-d88c-48f0-9ec6-9eeaa80901e9)
+[Promotional Video](https://github.com/cis-famu/GameTrack/assets/110430142/723a9e25-96e7-47e9-a0e1-7323f00e7c45)
 
 
 2. **Social Media Graphics**
