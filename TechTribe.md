@@ -39,7 +39,7 @@ Our target audience includes business owners, human resources directors, program
 
 As a software development company, TECTRIBE LLC adheres to industry regulations related to data security and privacy, ensuring the confidentiality and protection of our clients' sensitive information. We also comply with relevant copyright and intellectual property laws, both in software development and in protecting our own proprietary technologies.
 
-With our understanding of the industry, commitment to non-profit success, and compliance with regulations, TECHTRIBE is positioned to make a significant impact in the knowledge management software market for non-profits.
+With our understanding of the industry, commitment to non-profit success, and compliance with regulations, TECHTRIBE is positioned to make a significant impact in the knowledge management software market.
 
 ## Company Advantages
 
