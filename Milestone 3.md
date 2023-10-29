@@ -30,16 +30,21 @@ Present wireframes for key pages or interfaces of the system in this section.
 ### Wireframe Examples
 
 1. **Homepage**
- 
+
+ <img width="365" alt="HomePage" src="https://github.com/cis-famu/GameTrack/assets/110430142/bfd5d435-387f-4ce4-8eaf-639684ebc555">
+
 
 2. **User Profile Page**
-   
 
-3. **Game Tracking Interface**
-
+   <img width="319" alt="image" src="https://github.com/cis-famu/GameTrack/assets/110430142/09828613-22d7-4c1f-b82f-06359ba66787">
 
 
-4. **WireFrame Document**
+4. **Game Tracking Form**
+
+<img width="168" alt="image" src="https://github.com/cis-famu/GameTrack/assets/110430142/5b31b80f-d90f-4347-8f62-c3456231f21c">
+
+
+5. **WireFrame Document**
 
 [GamTrack.pdf](https://github.com/cis-famu/GameTrack/files/13077108/GamTrack.pdf)
 
