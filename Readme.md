@@ -52,4 +52,7 @@ Here is a copy of our final project presentation. This includes our project post
 
 [Presentation]()
 
-## **Website Frames**
+## **Website Frames Gif**
+
+![GamTrack Website Frame](https://github.com/cis-famu/GameTrack/assets/110430142/37d68fad-f41b-4fdf-b958-70ec7bd45305)
+
