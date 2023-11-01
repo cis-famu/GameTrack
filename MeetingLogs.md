@@ -132,5 +132,47 @@
   [Project Meeting Guidelines October 22.docx](https://github.com/cis-famu/GameTrack/files/13065753/Project.Meeting.Guidelines.October.22.docx)
 
 
+# Project Team Meeting - November 5, 2034
+
+## Date and Time
+- **Date:** November 5, 2034
+- **Time:** 6:00 PM - 8:00 PM
+- **Meeting ID:** 387 634 4422
+
+## Attendees
+- Terrelle Thomas
+- Justin Lowery
+- Xavier Wildy
+- Antonio Alston
+
+## Agenda
+
+### 1. Milestone 2 Review
+   - Review and finalize any pending corrections for Milestone 2.
+   - Ensure that all use cases have been thoroughly checked before drawing the Use Case diagram.
+
+### 2. Milestone 3 and 4 Planning
+   - Discussion and planning for Milestone 3.
+   - Assignment of tasks for each team member related to Milestone 3.
+   - Discussion and planning for Milestone 4.
+   - Assignment of tasks for each team member related to Milestone 4.
+
+### 3. Task Assignments for Milestone 3
+   - Justin Lowery: Data Flow Diagram
+   - Terrelle Thomas: Wireframes, Request for Quote, Style Guide, Marketing Materials
+   - Other Members: Focus on corrections needed for Milestone 2
+
+     ### 3. Task Assignments for Milestone 4
+   - Justin Lowery: Lesson Learned
+   - Terrelle Thomas: Data Dictionary, Risk Register, 
+   - Poster-Antino  Alston
+   - Xavier Wildy-CRD
+ 
+
+## Additional Documents
+- [Project Meeting Guidelines November 5.docx](link/to/document)
+
+
+
 
 
