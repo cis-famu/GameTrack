@@ -21,7 +21,7 @@ In this section, we provide the Request for Quotation (RFQ) for any external ser
 
 ### RFQ Content
 
-
+[TechTribe Request For Quote.pdf](https://github.com/cis-famu/GameTrack/files/13234058/TechTribe.Request.For.Quote.pdf)
 
 ## Wireframes
 
@@ -52,24 +52,11 @@ Present wireframes for key pages or interfaces of the system in this section.
 
 Define the style guide for the user interface, including color schemes, typography, and visual elements.
 
-### Style Guide Elements
+### Style Guide
 
-1. **Color Scheme**
-   - Primary Color: #
-   - Secondary Color: #
-   - Background Color: #
-
-2. **Typography**
-   - Font: [Font Name]
-   - Font Size: [Size]
-
-3. **Visual Elements**
-   - Icons: [Icon Library]
-   - Imagery: [Guidelines]
-  
  4. **Style Guide Document**
 
-    
+[GAMTRACK Style Guide (1).pdf](https://github.com/cis-famu/GameTrack/files/13234119/GAMTRACK.Style.Guide.1.pdf)
 
 ## Marketing Materials
 
