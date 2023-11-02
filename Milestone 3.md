@@ -78,3 +78,4 @@ This section includes materials created for marketing purposes.
 ![1](https://github.com/cis-famu/GameTrack/assets/110430142/29b6a4bb-3fd9-4dbd-a8d9-1573bef3273d)
 
 
+## Project Plan Document
