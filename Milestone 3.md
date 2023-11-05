@@ -12,7 +12,7 @@
 
 In this section, we present the Data Flow Diagram (DFD) for our project, illustrating the flow of information within the system.
 
-[Insert DFD Image/Link]
+![Official Gamtrack Data Flow](https://github.com/cis-famu/GameTrack/assets/110430142/66990195-8e53-415c-9511-107c484920c8)
 
 ## Request for Quotation (RFQ)
 
