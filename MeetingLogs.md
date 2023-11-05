@@ -132,7 +132,7 @@
   [Project Meeting Guidelines October 22.docx](https://github.com/cis-famu/GameTrack/files/13065753/Project.Meeting.Guidelines.October.22.docx)
 
 
-# Project Team Meeting - November 5, 2034
+# Project Team Meeting - November , 2034
 
 ## Date and Time
 - **Date:** November 5, 2034
