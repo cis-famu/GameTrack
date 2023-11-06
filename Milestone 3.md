@@ -80,4 +80,5 @@ This section includes materials created for marketing purposes.
 
 ## Project Plan Document
 
-[GamTrack Project Plan Milestone 3.docx](https://github.com/cis-famu/GameTrack/files/13234799/GamTrack.Project.Plan.Milestone.3.docx)
+[GamTrack Project Plan Milestone 3.docx](https://github.com/cis-famu/GameTrack/files/13262392/GamTrack.Project.Plan.Milestone.3.docx)
+
