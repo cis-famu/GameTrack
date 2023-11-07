@@ -135,7 +135,7 @@
 # Project Team Meeting - November , 2034
 
 ## Date and Time
-- **Date:** November 5, 2034
+- **Date:** November 7, 2034
 - **Time:** 6:00 PM - 8:00 PM
 - **Meeting ID:** 387 634 4422
 
