@@ -21,7 +21,7 @@ In this section, we provide the Request for Quotation (RFQ) for any external ser
 
 ### RFQ Content
 
-[TechTribe Request For Quote.pdf](https://github.com/cis-famu/GameTrack/files/13254106/TechTribe.Request.For.Quote.pdf)
+[TechTribe Request For Quote.docx](https://github.com/cis-famu/GameTrack/files/13343039/TechTribe.Request.For.Quote.docx)
 
 ## Wireframes
 
