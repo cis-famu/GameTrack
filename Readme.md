@@ -38,12 +38,14 @@ In this milestone, we continue with planning activities. We outline our tasks us
 [Milestone 2 Details](https://github.com/cis-famu/GameTrack/blob/main/Milestone%202.md)
 
 ## **Milestones 3**
-In this milestone, we formalize our project idea by creating our project charter and conducting a SWOT analysis. We also create our high-level budget and time estimates. 
+In this milestone, the group will advance to the project's design phase, focusing on refining the Data Flow Diagram (DFD) by developing Context, Level-0, and Level-1 diagrams. Simultaneously, initiate the Request for Quotation (RFQ) process for an essential project element and create a style guide. Develop an interactive wireframe in Figma, aligning with the style guide, and record a GIF for GitHub. Additionally, craft a marketing flyer highlighting app features, benefits, and screen visuals for comprehensive documentation.
 
 [Milestone 3 Details](https://github.com/cis-famu/GameTrack/blob/main/Milestone%203.md)
 
 ## **Milestones 4**
-In this milestone, we formalize our project idea by creating our project charter and conducting a SWOT analysis. We also create our high-level budget and time estimates. 
+In this milestone, the group will progress into the project's design phase, focusing on refining the Data Flow Diagram (DFD) by developing Context, Level-0, and Level-1 diagrams. Simultaneously, initiate the Request for Quotation (RFQ) process for an essential project element and create a style guide. Develop an interactive wireframe in Figma, aligning with the style guide, and record a GIF for GitHub. Additionally, craft a marketing flyer highlighting app features, benefits, and screen visuals for comprehensive documentation.
+
+After the design phase, each group member should contribute to the Lessons-Learned report, reflecting on insights gained during the project's design and suggesting improvements for future endeavors. Alongside this, finalize the Poster Presentation and Pre-Recorded Video for the CIS Expo, ensuring a comprehensive showcase of the project's design and key components.
 
 [Milestone 4 Details](https://github.com/cis-famu/GameTrack/blob/main/Milestone%204.md)
 
