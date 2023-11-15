@@ -3,9 +3,9 @@
 ## **Table of Contents**
 About the Project
 
-Contributors
+[Contributors](https://github.com/cis-famu/GameTrack/blob/main/Contributors.md)
 
-Our Organization
+[Our Organization](https://github.com/cis-famu/GameTrack/blob/main/TechTribe.md)
 
 Milestones
 
