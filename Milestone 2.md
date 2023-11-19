@@ -36,6 +36,7 @@ This section presents the Gantt Chart and Network Diagram based on the WBS.
 [Use Cases For GamTrack.docx](https://github.com/cis-famu/GameTrack/files/13055684/Use.Cases.For.GamTrack.docx)
 
 ## Use Case Diagram
+[Use Case Diagrams](https://github.com/cis-famu/GameTrack/tree/main/Use%20Case%20Diagrams)
 
 ## Research on Other Systems
 
