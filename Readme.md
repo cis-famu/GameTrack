@@ -52,7 +52,8 @@ After the design phase, each group member should contribute to the Lessons-Learn
 ## **Presentation**
 Here is a copy of our final project presentation. This includes our project poster and pre-recorded video. 
 
-[Presentation](#poster)
+[CIS Poster-GamTrack.pptx](https://github.com/cis-famu/GameTrack/files/13454481/CIS.Poster-GamTrack.pptx)
+
 
 ## **Website Frames Gif**
 
