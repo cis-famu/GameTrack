@@ -13,6 +13,7 @@
 In this section, we provide the Risk Register for our project, documenting potential risks, their impact, and mitigation strategies.
 
 ### Risk Register Content
+
 [GamTrack Risk Register.docx](https://github.com/cis-famu/GameTrack/files/13454352/GamTrack.Risk.Register.docx)
 
 
@@ -26,6 +27,7 @@ In this section, we outline the Change Request Document (CRD) for any modificati
 ## Data Dictionary
 
 Present the Data Dictionary, detailing the data structures, entities, and attributes used in the system.
+
 [GamTrack Data Dictionary.docx](https://github.com/cis-famu/GameTrack/files/13454356/GamTrack.Data.Dictionary.docx)
 
 
@@ -39,7 +41,12 @@ In this section, we share insights and lessons learned throughout the project, h
 ## Poster
 
 This section includes the project poster summarizing key aspects of the project.
+
 [CIS Poster-GamTrack.pptx](https://github.com/cis-famu/GameTrack/files/13454357/CIS.Poster-GamTrack.pptx)
+
+
+<img width="868" alt="image" src="https://github.com/cis-famu/GameTrack/assets/110430142/38f32ddd-5895-4961-abde-bea5a7d92ec9">
+
 
 
 ## Overall Document
