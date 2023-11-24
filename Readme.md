@@ -52,7 +52,7 @@ After the design phase, each group member should contribute to the Lessons-Learn
 ## **Presentation**
 Here is a copy of our final project presentation. This includes our project poster and pre-recorded video. 
 
-[Presentation]()
+[Presentation](#poster)
 
 ## **Website Frames Gif**
 
