@@ -36,7 +36,7 @@ Present the Data Dictionary, detailing the data structures, entities, and attrib
 In this section, we share insights and lessons learned throughout the project, highlighting successes, challenges, and recommendations for future projects.
 
 
-
+[Lesson Learned Report.docx](https://github.com/cis-famu/GameTrack/files/13541822/Lesson.Learned.Report.docx)
 
 ## Poster
 
@@ -51,5 +51,6 @@ This section includes the project poster summarizing key aspects of the project.
 
 ## Overall Document
 
+[GamTrack Document Plan Four.docx](https://github.com/cis-famu/GameTrack/files/13541821/GamTrack.Document.Plan.Four.docx)
 
 
