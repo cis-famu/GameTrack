@@ -10,9 +10,17 @@ Hello, my name is Terrelle Thomas. I am a third-year student attending Florida A
 ## **Xavier Widely**
 Greetings, my name is Xavier Wildy. I am a fifth-year senior in my CIS major with a minor in cybersecurity. I was born in Ft. Benning, Georgia, into a military family, allowing me to experience different parts of the world. I live in Tallahassee, but my family is stationed at West Point, New York. I have little experience designing and managing information systems, but I am adaptable and can learn quickly. I enjoy cooking, baking, playing video games, and listening to music in my free time.
 
+![744x992](https://github.com/cis-famu/GameTrack/assets/110430142/3a6a035c-3671-46ce-a194-34dd2529c9c4)
+
+
 ## **Justin Lowery**
 My name is Justin Lowery, and I am a senior transfer student at FAMU. I was born and raised in Lakeland, Florida. I left Polk State College with my AA degree and a high school diploma and transferred to FAMU. I am currently pursuing a Bachelor’s degree in Computer Information Systems. Previously, I worked for Winn-Dixie, FSU, and have held a state job over the summer. Earlier last year, I was a member of the FAMU Boxing Club and got a small quantity of coaching. I love to read, box, work out, and work on cars in my free time.
+
+![1024x1024](https://github.com/cis-famu/GameTrack/assets/110430142/10183b15-895d-471a-928c-524ae8db9d6d)
 
 
 ## **Antonio Alston**
 My name is Antonio Alston, and I am a fourth-year CIS major from Tampa, Florida. I have obtained my associate degree from Tallahassee Community College and am pursuing my degree at Florida A&M University. Throughout my college journey, I have gained knowledge in C++ programming, web design, computer security, and database management.
+
+![354x354](https://github.com/cis-famu/GameTrack/assets/110430142/0fb7b89e-fa2d-4429-887e-58b4b673efda)
+
