@@ -55,6 +55,9 @@ Here is a copy of our final project presentation. This includes our project post
 [CIS Poster-GamTrack.pptx](https://github.com/cis-famu/GameTrack/files/13454481/CIS.Poster-GamTrack.pptx)
 
 
+https://github.com/cis-famu/GameTrack/assets/110430142/a76b12a9-4870-4463-887f-9abb438f6da5
+
+
 ## **Website Frames Gif**
 
 ![GamTrack Website Frame](https://github.com/cis-famu/GameTrack/assets/110430142/37d68fad-f41b-4fdf-b958-70ec7bd45305)
